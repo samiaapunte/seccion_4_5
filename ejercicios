@@ -13,3 +13,11 @@ def bmi(weight, height):
 
 
 print(bmi(352.5, 1.65))
+
+def lb_to_kg(lb):
+    return lb * 0.45359237
+
+
+print(lb_to_kg(1))
+
+
